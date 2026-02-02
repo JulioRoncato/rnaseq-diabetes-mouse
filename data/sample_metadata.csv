@@ -1,0 +1,5 @@
+sample,genotype,diet,condition
+Sample_1,KO,NFD,KO_NFD
+Sample_2,KO,HFD,KO_HFD
+Sample_3,WT,NFD,WT_NFD
+Sample_4,WT,HFD,WT_HFD
